@@ -20,6 +20,7 @@ The program works with your personal bot token and does not send any data to any
 
 ## How to use
 
+0. Download, install and open latest .apk from Release section (https://github.com/vovaksenov99/SmsHostForwarder/releases)
 
 1. Open telegram web, and copy chat id to chat ids field. F.e `73638059`. You also can paste several chat ids with comma separator
 

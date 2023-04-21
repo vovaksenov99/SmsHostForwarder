@@ -1,6 +1,6 @@
 # SmsHostForwarder
 
-A small holyday pet app for forwarding messages and call information from your cell phone to telegram.
+A small holiday pet app for forwarding messages and call information from your cell phone to telegram.
 
 <img width="494" alt="image" src="https://user-images.githubusercontent.com/13554528/233592639-782a1886-798b-4d20-b231-6e63a17d31d7.png">
 
